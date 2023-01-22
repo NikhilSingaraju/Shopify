@@ -25,18 +25,24 @@ An e-commerce company wants to build a sample Front End prototype website for th
 The project's core idea is to build a sample prototype Shopify Website for a business company with the help of HTML, CSS, JAVASCRIPT, and BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of the sample prototype an e-commerce site is to sell goods online. This project deals with developing an e-commerce website for Online Product Sales. It provides the user with a catalog of products available in the store. To facilitate online purchases, a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
 
 ### Primary Azure Technology :
-Azure Bot Service, Azure Cognitive Services, Static Web Apps
+Static Web Apps, Storage Accounts
 
 ### Explanatory Video Of Azure Technologies
 
 ### Create a Resource Group from your Azure portal.
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/RG.png" width="700" height= "350"></p> 
 
-### Create a Static web app and you are ready to host your website.Azure provides a lot of insightful tools.
+### Create a Static web app and you are ready to host your website.
+Azure provides a lot of insightful tools.
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/SWA.png" width="700" height= "350"></p> 
 
-### Create a Cognitive Serevics from your Azure portal.
-<p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/CG.png" width="700" height= "350"></p> 
+### Create a Storage Account from your Azure portal.
+<p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/SA.png" width="700" height= "350"></p> 
+
+### Create a Web Static in Storage Account from your Azure portal.
+<p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/SA SW.png" width="700" height= "350"></p> 
+
+<p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/CB.png" width="700" height= "350"></p>
 
 ### Tech Stack
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/TS.png" width="700" height= "350"></p> 
@@ -53,7 +59,7 @@ Azure Bot Service, Azure Cognitive Services, Static Web Apps
 ### Contact Us Page
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/CUP.png" width="700" height= "350"></p> 
 
-### Map Services & Chat Bot
+### Map Services
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/MCP.png" width="700" height= "350"></p> 
 
 ### Footer
