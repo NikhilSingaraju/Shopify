@@ -27,7 +27,7 @@ The project's core idea is to build a sample prototype Shopify Website for a bus
 ### Primary Azure Technology :
 Static Web Apps, Storage Accounts
 
-### Explanatory Video Of Azure Technologies
+### Explanatory Video Of Azure Technologies https://drive.google.com/file/d/1UY63hp1yghBAZ-JeYMCEQein5zsgkk-L/view?usp=sharing
 
 ### Create a Resource Group from your Azure portal.
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/RG.png" width="700" height= "350"></p> 
