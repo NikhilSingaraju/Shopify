@@ -1,11 +1,16 @@
 # <a href='https://nikhilsingaraju.github.io/Shopify/'>Shopify</a>
 
+### Azure link https://polite-desert-0a00a3210.2.azurestaticapps.net 
+
+### Primary link https://shopifyweb.z30.web.core.windows.net/ 
+
+### Secondary link(endpoint) https://shopifyweb-secondary.z30.web.core.windows.net/
+
+### Github URL-https://nikhilsingaraju.github.io/Shopify/
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
-
-Note: Bot is deployed on contact page
 
 ### Industry :
 Lifestyle
@@ -25,6 +30,7 @@ The project's core idea is to build a sample prototype Shopify Website with a FA
 ### Primary Azure Technology :
 Azure Bot Service, Azure Cognitive Services, Static Web Apps
 
+### Explanatory Video Of Azure Technologies
 
 ### Create a Resource Group from your Azure portal.
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/RG.png" width="700" height= "350"></p> 
