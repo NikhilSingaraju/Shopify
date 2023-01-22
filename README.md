@@ -32,8 +32,7 @@ Static Web Apps, Storage Accounts
 ### Create a Resource Group from your Azure portal.
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/RG.png" width="700" height= "350"></p> 
 
-### Create a Static web app and you are ready to host your website.
-Azure provides a lot of insightful tools.
+### Create a Static web app and you are ready to host your website.<br>Azure provides a lot of insightful tools.
 <p align= "center"><img src="https://github.com/nikhilsingaraju/Shopify/blob/main/images/SWA.png" width="700" height= "350"></p> 
 
 ### Create a Storage Account from your Azure portal.
